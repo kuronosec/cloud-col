@@ -1,0 +1,27 @@
+Listado de URLs donde se puede acceder a información sensible de los colombianos
+requiriendo solo el número de cédula:
+
+http://siri.procuraduria.gov.co:8086/CertWEB/Certificado.aspx?tpo=1
+https://copnia.gov.co/matriculas/?q=(%cedula%)
+https://wssisbenconsulta.sisben.gov.co/DNP_SisbenConsulta/DNP_SISBEN_Consulta.aspx
+http://antecedentesdisciplinarios.ramajudicial.gov.co/antecedentes/Default.aspx
+https://muisca.dian.gov.co/WebRutMuisca/DefConsultaEstadoRUT.faces
+http://wsr.registraduria.gov.co/servicios/documentos.htm?nCedula=(%cedula%)&cedula=
+https://www.google.com.co/search?q=(%nombrecompleto%)&tbm=isch
+https://www.google.com.co/search?q=(%nombrecompleto%)
+https://www.facebook.com/search.php?q=(%nombrecompleto%)&init=ffs
+http://www.bing.com/search?q=(%nombrecompleto%)
+https://www.runt.com.co/consultaCiudadana/#/consultaPersona
+https://antecedentes.policia.gov.co:7005/WebJudicial/
+http://www3.registraduria.gov.co/certificado/Datos.aspx
+http://www.policia.gov.co/portal/pls/portal/DOCUEMNTOS_EXTRAVIADOS.CONSULTA_DOCUMENTOS_EXTER.show
+https://www.libretamilitar.mil.co/Modules/Consult/MilitarySituation
+http://www.fosyga.gov.co/Aplicaciones/AfiliadoWebBDUA/Afiliado/Formulario/buda_consulta_afil_sin_dnn.aspx?id=
+http://www3.registraduria.gov.co/censo/_censoresultado.php?
+https://sedeelectronica.archivogeneral.gov.co/SedeElectronica/
+https://consulta.simit.org.co/Simit/verificar/contenido_liquidacion_pago_linea.jsp?estadoAutorizacion=S
+http://cfiscal.contraloria.gov.co/siborinternet/certificados/imprimirPersonaNatural.asp?ced=
+https://www.enlace-apb.com/interssi/consultarCertificacionPago.jsp
+http://www.runt.com.co/runt/ciudadanos/consultas/consulta_ciudadano_por_documento_final_public.jsf
+http://siri.procuraduria.gov.co:8086/CertWEB/Certificado.aspx?tpo=2
+http://ruafsvr2.sispro.gov.co/RUAF/Cliente/WebPublico/Consultas/D04AfiliacionesPersonaRUAF.aspx
