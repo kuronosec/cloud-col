@@ -25,3 +25,7 @@ https://www.enlace-apb.com/interssi/consultarCertificacionPago.jsp
 http://www.runt.com.co/runt/ciudadanos/consultas/consulta_ciudadano_por_documento_final_public.jsf
 http://siri.procuraduria.gov.co:8086/CertWEB/Certificado.aspx?tpo=2
 http://ruafsvr2.sispro.gov.co/RUAF/Cliente/WebPublico/Consultas/D04AfiliacionesPersonaRUAF.aspx
+http://www3.registraduria.gov.co/censo/_censoresultado.php?nCedula=(%cedula%)
+
+listados de cedulas disponibles para el publico abierto
+https://consulado.gov.co/sites/default/files/news/attachments/lista_cedulas_por_entregar_1.pdf

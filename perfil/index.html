@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link type="text/css" rel="stylesheet" href="normalize.css">
+<link type="text/css" rel="stylesheet" href="estilos.css">
+<meta charset="utf-8" />
+<title>tus datos en la red</title>
+</head>
+
+<body>
+<div id="wrapper">
+  <header>
+    <h1>tus datos en la red</h1>
+    <p>este pequeño ejercicio esta realizado para que tomemos conciencia
+    de los datos que sobre nosotros hay en internet y porque es importante
+    la coherencia a la hora de proteger la privacidad para proteger nuestra 
+    seguridad como ciudadanos, demostramos que no siempre "el que nada debe, 
+    nada teme"</p>
+    <p class="disclaimer">*el presente ejercicio no almacena ningún dato ni envía los mismos
+    a terceros.</p>
+  </header>
+  <section id="form">
+    <form>
+      <h3>introduce tus datos</h3>
+      <input type="text" name="identificacion" placeholder="digita tu cedula aqui"/>
+      <input type="button" name="submit_id" value="enviar"/>
+    </form>
+  </section>
+  <section id="profile">
+    <ul>
+      <li>
+        <span class="item">Nombre: </span><span id="c_name"> </span>
+      </li>
+      <li>
+        <span class="item">Cédula: </span><span id="c_id"> </span>
+      </li>
+    </ul>
+  </section>
+  <section id="pages">
+    <nav id="page_tabs">
+    <ul id="tabs">
+      <li>encontrar nombre y antecedentes</li><!-- http://siri.procuraduria.gov.co:8086/CertWEB/Certificado.aspx?tpo=1 -->
+      <li>verificar profesion(Copnia)</li><!-- https://copnia.gov.co/matriculas/?q=(%cedula%) -->
+      <li>verificar situacion militar</li><!-- https://www.libretamilitar.mil.co/Modules/Consult/MilitarySituation -->
+      <li>encontrar lugar votacion</li><!-- http://www3.registraduria.gov.co/censo/_censoresultado.php?nCedula=(%cedula%) -->
+    </ul>
+    </nav>
+    <iframe src="http://siri.procuraduria.gov.co:8086/CertWEB/Certificado.aspx?tpo=1" name="antecedentes">
+    si ves este mensaje, significa que tu navegador no permite el uso de iframe
+    </iframe>
+    <iframe src="https://copnia.gov.co/matriculas/?q=123456" name="copnia">
+    si ves este mensaje, significa que tu navegador no permite el uso de iframe
+    </iframe>
+    <iframe src="https://www.libretamilitar.mil.co/Modules/Consult/MilitarySituation" name="militar">
+    si ves este mensaje, significa que tu navegador no permite el uso de iframe
+    </iframe>
+    <iframe src="http://www3.registraduria.gov.co/censo/_censoresultado.php?nCedula=123456" name="voto">
+    si ves este mensaje, significa que tu navegador no permite el uso de iframe
+    </iframe>
+  </section>
+  <footer>encuentra el código fuente en github: <a href="https://github.com/kuronosec/cloud-col">cloud-col</a></footer>
+</div>
+</body>
+</html>
