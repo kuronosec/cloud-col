@@ -61,3 +61,5 @@ http://ruafsvr2.sispro.gov.co/RUAF/Cliente/WebPublico/Consultas/D04AfiliacionesP
 http://ruafsvr2.sispro.gov.co/RUAF/Cliente/WebPublico/Visor/frmVisorReporte.aspx?GUID=
 http://ruafsvr2.sispro.gov.co/RUAF/Cliente/WebPublico/Visor/frmVisorReporte.aspx?GUID=
 http://ruafsvr2.sispro.gov.co/RUAF/Cliente/WebPublico/Reserved.ReportViewerWebControl.axd?ReportSession=
+http://www3.registraduria.gov.co/censo/_censoresultado.php?nCedula=(%cedula%)
+https://consulado.gov.co/sites/default/files/news/attachments/lista_cedulas_por_entregar_1.pdf
